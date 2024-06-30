@@ -105,7 +105,7 @@ def boundary_check(darkness, temperature, humidity):
         else:
             greenLed.off()
 
-        if darkness <= 90:
+        if darkness < 90:
             redLed.on()
         else:
             redLed.off()
