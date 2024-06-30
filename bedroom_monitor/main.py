@@ -103,7 +103,7 @@ try:                      # Code between try: and finally: may cause an error
         boundary_check(measurements[0], measurements[1], measurements[2])
         send_data(measurements[0], measurements[1], measurements[2])     # Send a random number to Adafruit IO if it's time.
 finally:                  # If an exception is thrown ...
-    client.disconnect()   # ... disconnect the client and clean up.
+    client.disconnect()   # ... disconnect the client and reset.
     client = None
     print("Disconnected from Adafruit IO.")
     time.sleep(20)
