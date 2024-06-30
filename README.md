@@ -30,7 +30,7 @@ In the following table the products needed to build this device is presented, as
 | <img src="./bilder/jumper_wire.jpg" alt="Jumper Wires" width="400" height="200"> | Jumper wires 30cm male/male (x20). Used for making quick and easy connections on a breadboard or female header connectors. | 29 kr (för 20) |
 | <img src="./bilder/photo_resistor.jpg" alt="Photo Resistor" width="400" height="200"> | Photo resistor CdS 4-7 kohm (x1). A photoresistor, also known as a light-dependent resistor (LDR), is a type of resistor whose resistance varies depending on the amount of light falling on its surface. | 8 kr |
 | <img src="./bilder/resistor330.png" alt="330 Ohm Resistors" width="400" height="200">  | Resistors (330 ohm) (x3). Used to limit the current in an electronic circuit. | 1 kr |
-| <img src="./bilder/resistor_47.png" alt="47000 Ohm Resistors" width="400" height="200">  | Resistors (47000 ohm) (x3). Used to limit the current in an electronic circuit. | 3 kr |
+| <img src="./bilder/resistor_47.png" alt="47000 Ohm Resistors" width="400" height="200">  | Resistors (4700 ohm) (x3). Used to limit the current in an electronic circuit. | 3 kr |
 | <img src="./bilder/LED_5mm.jpg" alt="LEDs" width="400" height="200">  | LED 5mm (Preferably different colours) (x3). Light-emitting diodes used as indicator lights. | 5 kr |
 | <img src="./bilder/USB_kabel.png" alt="LEDs" width="300" height="300">  | USB-kabel A-hane - micro B hane 1.8m (x1).  | 39 kr |
 | | Power bank (x1).  | ca 200 kr |
