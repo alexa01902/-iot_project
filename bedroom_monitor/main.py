@@ -45,9 +45,6 @@ def send_data(darkness, temperature, humidity):
         except Exception as e:
             print("FAILED")
 
-        finally:
-            last_data_sent_ticks = time.ticks_ms()
-
     except Exception as error:
         print("Exception occurred", error)
     time.sleep(DATA_INTERVAL)
