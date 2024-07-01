@@ -63,7 +63,7 @@ Figure 1 shows how all the electronic components are connected. To make sure not
 ![Local Image](./bilder/final_board.png)
 Figure 1.
 
-One problem I realised with this setup was that when the LED lights turn on, they effect the light intensity. This problem was handled by setting a sheild between the lights and the sensor to block the light.
+One problem I realised with this setup was that when the LED lights turn on, they affect the light intensity. This problem was handled by setting a sheild between the lights and the sensor to block the light.
 
 # Platform
 
