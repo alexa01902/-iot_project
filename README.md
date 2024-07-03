@@ -123,7 +123,6 @@ DATA_INTERVAL = 60*15 # seconds
 
 def send_data(darkness, temperature, humidity):
     try:
-        global DATA_INTERVAL
         
         print("Publishing: {0} to {1} ... ".format(temperature, aio.AIO_TEMP_FEED), end='')
 
