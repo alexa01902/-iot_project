@@ -174,8 +174,7 @@ Figure 2.
 
 # Results and conclusion
 
-The figures below display the final result of the device. The device is assembled according to the schematic shown in Figure 1. In Figure 3, the illuminated LEDs are clearly visible: the yellow LED indicates that the temperature is not optimal, and the red LED shows that the room is not dark enough. In all the figures, the shield dividing the LEDs and sensors is clearly visible and functions effectively as a divider. Figure 4 clearly shows the blue temperature and humidity sensor and the photoresistor. Figure 5 provides an overview of all the components.
-
+The figures below display the final result of the device. The device is assembled according to the schematic shown in Figure 1. In Figure 3, the illuminated LEDs are clearly visible: the yellow LED indicates that the temperature is not optimal, and the red LED shows that the room is not dark enough. In all the figures, the shield dividing the LEDs and sensors is clearly visible and functions effectively as a divider. Figure 4 clearly shows the blue temperature and humidity sensor and the photoresistor. Figure 5 provides an overview of all the components. I was expecting the graph of the temperature to vary more during night. I checked if there was something wrong with the sensor or code by placing the device by an open window. When doing that I got another resonable reading, so it seems like it works as it should.
 <img src="./bilder/IMG_8145.png" alt="dashboard" >
 Figure 3.
 <img src="./bilder/IMG_8146.png" alt="dashboard" >
